@@ -1,0 +1,15 @@
+button{
+    padding: 10px 25px;
+    background-color: blue;
+    color: white;
+    margin: 15px;
+    border: thin;
+    border-radius: 70px;
+}
+.card{
+    border: 3px dashed salmon;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
