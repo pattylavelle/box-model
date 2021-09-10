@@ -8,8 +8,14 @@ button{
 }
 
 .card {
-    border: 1px lightgrey solid;
+    border: 3px salmon dashed;
     padding: 10px;
     border-radius: 10px;
     margin-bottom:10px
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
 }
